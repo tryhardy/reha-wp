@@ -1,0 +1,12 @@
+li {
+    display:block;
+}
+.footer-menu li {
+    display:block;
+}
+
+#toTop {
+    position:absolute;
+    bottom: 20px;
+    left:20px;
+}
